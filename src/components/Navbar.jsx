@@ -63,7 +63,7 @@ export function Navbar() {
               />
             )}
           </div>
-          <h2 className="logo-txt">GeekGrid</h2>
+          <h2 className="logo-txt">Edify</h2>
           <ul>
             <li>
               <Link to="/" className="links">
